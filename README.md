@@ -2,7 +2,7 @@
 
 A GitHub Actions workflow that automates Terraform planning for AWS EKS and VPC infrastructure deployment with automatic plan file commits.
 
-##What is done here; 
+## What is done here; 
 
 - **Automated Terraform Planning**: Triggers on every push to main branch
 - **AWS EKS & VPC Deployment**: Provisions complete EKS cluster with VPC infrastructure
