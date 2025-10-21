@@ -8,7 +8,7 @@ A GitHub Actions workflow that automates Terraform planning for AWS EKS and VPC 
 - **AWS EKS & VPC Deployment**: Provisions complete EKS cluster with VPC infrastructure
 - **Plan File Persistence**: Automatically commits plan files back to repository
 
-## 🔄 Workflow Process
+##  Workflow Process
 
 1. **Trigger**: Push to main branch
 2. **Checkout**: Retrieves latest code
